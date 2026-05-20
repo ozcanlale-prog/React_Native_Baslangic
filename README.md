@@ -9,7 +9,7 @@ Herkese selam! Bu proje, daha önce yerel (Native) Android için geliştirdiğim
 
 ### 📱 Canlı Demo (Kurulumsuz Test Et!)
 Projeyi bilgisayarınıza indirmeden, tarayıcınız üzerinden veya telefonunuzdaki Expo Go uygulamasıyla anında test edebilirsiniz:
-👉 **[Buraya Expo Snack Linkini Yapıştır]**
+👉 **(https://snack.expo.dev/@ozcan4165/jealous-green-salsa)**
 
 ### 🛠️ Kullanılan Teknolojiler
 * React Native
