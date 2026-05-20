@@ -3,17 +3,17 @@
 Herkese selam! Bu proje, daha önce yerel (Native) Android için geliştirdiğim "Günün Notu" uygulamasının, React Native ve Expo kullanılarak hem Android hem iOS'ta çalışacak şekilde (Cross-Platform) yeniden yazılmış halidir.
 
 
---
+
 <img width="1919" height="1079" alt="Ekran görüntüsü 2026-05-20 151256" src="https://github.com/user-attachments/assets/abe8ec93-54a7-47ab-a605-5e4b50e54089" />
---
+
 <img width="1919" height="1079" alt="Ekran görüntüsü 2026-05-20 151312" src="https://github.com/user-attachments/assets/f4881fef-154c-4660-b2c3-02ad608c9d02" />
---
+
 <img width="1919" height="1079" alt="Ekran görüntüsü 2026-05-20 151318" src="https://github.com/user-attachments/assets/707dd802-298c-47df-84e8-8721d20d152b" />
---
+
 
 https://github.com/user-attachments/assets/daafd665-33b9-40e3-8275-60b0d48d1d4d
 
---
+
 
 ### 🚀 Bu Projede Ne Yaptım?
 * **Arayüz Dönüşümü:** Native Android'deki XML tasarımlarını React Native'in JSX ve Flexbox mimarisine taşıdım.
