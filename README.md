@@ -27,3 +27,8 @@ Projeyi bilgisayarınıza indirmeden, tarayıcınız üzerinden veya telefonunuz
 * React Native
 * Expo (Snack)
 * TypeScript / JavaScript
+
+
+Bu çalışma benim için mobil geliştirme dünyasındaki yerel mimariler ile çapraz platform çözümleri arasındaki farkları doğrudan deneyimlediğim çok öğretici bir süreç oldu. Bir fikrin hem Android hem de iOS üzerinde dakikalar içinde canlanabildiğini görmek gerçekten harika bir duygu! 
+
+Projeyi incelediğiniz için teşekkür ederim. Her türlü geri bildiriminiz, öneriniz veya ekleme fikirleriniz için bir **Issue** açabilir ya da benimle iletişime geçebilirsiniz. Geliştirmeye devam! 🚀
