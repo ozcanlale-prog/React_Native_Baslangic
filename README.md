@@ -1,6 +1,8 @@
 # 📝 Günün Notu Uygulaması (Cross-Platform / React Native & Expo)
 
 Herkese selam! Bu proje, daha önce yerel (Native) Android için geliştirdiğim "Günün Notu" uygulamasının, React Native ve Expo kullanılarak hem Android hem iOS'ta çalışacak şekilde (Cross-Platform) yeniden yazılmış halidir.
+
+
 --
 <img width="1919" height="1079" alt="Ekran görüntüsü 2026-05-20 151256" src="https://github.com/user-attachments/assets/abe8ec93-54a7-47ab-a605-5e4b50e54089" />
 --
